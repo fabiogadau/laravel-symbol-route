@@ -4,5 +4,5 @@
 
 @section('content')
    <h2>Home</h2>
-   <a href="{{ 'about' }}">About us</a>
+   <a class="btn" href="{{ 'about' }}">About us</a>
 @endsection
